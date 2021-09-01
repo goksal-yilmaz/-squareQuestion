@@ -3,7 +3,7 @@
 İlk yüz doğal sayının kareleri toplamı ile toplamın karesi arasındaki farkı bulun. */
 
 
-let squarSums = 0, sumSquares =0
+let squarSums = 0; sumSquares = 0;
 
 function difference(){
     
