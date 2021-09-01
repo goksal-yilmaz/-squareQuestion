@@ -1,0 +1,19 @@
+{
+  "name": "sumsquaredifference",
+  "version": "1.0.0",
+  "description": "Find the difference between the sum of the squares of the first one hundred natural numbers and the square of the sum.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uchihaitachi0816/Js-Deneme-6.git"
+  },
+  "author": "\"Göksal Yılmaz\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uchihaitachi0816/Js-Deneme-6/issues"
+  },
+  "homepage": "https://github.com/uchihaitachi0816/Js-Deneme-6#readme"
+}
